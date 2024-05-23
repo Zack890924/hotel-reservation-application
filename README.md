@@ -5,12 +5,10 @@ Welcome to the Hotel Reservation Application, developed as part of the Udacity J
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
+
+
 
 ## Overview
 
@@ -18,11 +16,28 @@ The Hotel Reservation Application is a Java-based project that enables users to 
 
 ## Features
 
+### For Customers
+
 - **Customer Registration**: Allows new users to create an account.
 - **Room Search**: Filter available rooms based on dates.
 - **Room Booking**: Allows customers to book available rooms.
-- **Reservation Management**: View and cancel existing reservations.
-- **Admin Features**: Add, delete rooms, and view all reservations and customers.
+- **Reservation Management**: View existing reservations.
+
+### For Admin
+
+- **Room Management**: Add and view rooms.
+- **View Reservations**: View all customer reservations.
+- **View Customers**: View all registered customers.
+  
+## Project Structure
+
+- **User Interface (UI)**: Includes a main menu for users who want to book a room, and an admin menu for administrative functions.
+- **Resources**: Act as our Application Programming Interface (API) to our UI.
+- **Services**: Communicate with our resources, and each other, to build the business logic necessary to provide feedback to our UI.
+- **Data Models**: Used to represent the domain within the system (e.g., rooms, reservations, and customers).
+- 
+
+
 
 
 
