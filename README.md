@@ -18,10 +18,10 @@ The Hotel Reservation Application is a Java-based project that enables users to 
 
 ### For Customers
 
-- **Customer Registration**: Allows new users to create an account.
-- **Room Search**: Filter available rooms based on dates.
-- **Room Booking**: Allows customers to book available rooms.
-- **Reservation Management**: View existing reservations.
+- **Customer Registration**: The user needs to first create a customer account before they can create a reservation.
+- **Room Search**: The app should allow the user to search for available rooms based on provided checkin and checkout dates. If the application has available rooms for the specified date range, a list of the corresponding rooms will be displayed to the user for choosing.
+- **Room Booking**: Once the user has chosen a room, the app will allow them to book the room and create a reservation.
+- **Reservation Management**: After booking a room, the app allows customers to view a list of all their reservations.
 
 ### For Admin
 
@@ -35,7 +35,8 @@ The Hotel Reservation Application is a Java-based project that enables users to 
 - **Resources**: Act as our Application Programming Interface (API) to our UI.
 - **Services**: Communicate with our resources, and each other, to build the business logic necessary to provide feedback to our UI.
 - **Data Models**: Used to represent the domain within the system (e.g., rooms, reservations, and customers).
-- 
+  
+
 
 
 
