@@ -6,9 +6,7 @@ Welcome to the Hotel Reservation Application, developed as part of the Udacity J
 - [Overview](#overview)
 - [Features](#features)
 - [Project Structure](#project-structure)
-
-
-
+![image](https://github.com/Zack890924/hotel-reservation-application/assets/113669407/6a8d6525-03db-4a73-8f4c-e489526851ae)
 
 ## Overview
 
@@ -35,6 +33,8 @@ The Hotel Reservation Application is a Java-based project that enables users to 
 - **Resources**: Act as our Application Programming Interface (API) to our UI.
 - **Services**: Communicate with our resources, and each other, to build the business logic necessary to provide feedback to our UI.
 - **Data Models**: Used to represent the domain within the system (e.g., rooms, reservations, and customers).
+
+
   
 
 
