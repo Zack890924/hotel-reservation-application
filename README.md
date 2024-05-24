@@ -6,6 +6,9 @@ Welcome to the Hotel Reservation Application, developed as part of the Udacity J
 - [Overview](#overview)
 - [Features](#features)
 - [Project Structure](#project-structure)
+
+You may run the project by executing on your Java IDEA.
+
 ![image](https://github.com/Zack890924/hotel-reservation-application/assets/113669407/6a8d6525-03db-4a73-8f4c-e489526851ae)
 
 ## Overview
